@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu Oct 10 20:18:43 CST 2019
+2.base=/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libhidapi.so
+4.base=/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+count=5
+2.path=lib/arm64-v8a/libmain.so
+4.set=NATIVE_RESOURCE
+3.path=lib/arm64-v8a/libSDL2.so
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/arm64-v8a/libSDL2_image.so
+1.baseType=DIRECTORY
+0.base=/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+4.baseType=DIRECTORY
+0.set=DEX

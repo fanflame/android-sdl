@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk",
+    "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "SDL2-debug-x86": {
+      "artifactName": "SDL2",
+      "buildCommand": "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so",
+      "abi": "x86",
+      "output": "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so"
+    },
+    "hidapi-debug-x86": {
+      "artifactName": "hidapi",
+      "buildCommand": "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libhidapi.so",
+      "abi": "x86",
+      "output": "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libhidapi.so"
+    },
+    "main-debug-x86": {
+      "artifactName": "main",
+      "buildCommand": "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so",
+      "abi": "x86",
+      "output": "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so"
+    },
+    "SDL2_image-debug-x86": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2_image.so",
+      "abi": "x86",
+      "output": "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2_image.so"
+    },
+    "cpufeatures-debug-x86": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/momo/Library/Android/sdk/android-ndk-r17c/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/lib APP_PLATFORM\u003dandroid-16 /Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcpufeatures.a",
+      "abi": "x86",
+      "output": "/Users/momo/Documents/SDL2-2.0.10/build/com.fanyiran.sdltest/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcpufeatures.a"
+    }
+  }
+}
